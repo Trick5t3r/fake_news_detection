@@ -1,0 +1,5 @@
+pandas
+kaggle
+torch
+transformers
+scikit-learn
